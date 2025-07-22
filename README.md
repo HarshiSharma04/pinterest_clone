@@ -1,16 +1,31 @@
-# pinterest_colne
+# 📌 Pinterest Clone (Flutter)
 
-A new Flutter project.
+A beautiful and functional Pinterest UI clone built using **Flutter**. This project replicates the grid-style layout, scroll interactions, and image tile behavior of the Pinterest mobile app.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📷 Masonry-style image grid layout
+- 🧭 Bottom navigation bar
+- 🔍 Search bar & category tiles
+- ⚡ Smooth scrolling animations
+- 💡 Clean and responsive UI
+- 🧱 Custom widgets for modular design
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 📸 Add your app screenshots here!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter** (Dart)
+- **CustomScrollView**, **SliverGrid**, **GridView**
+- **StatefulWidgets**, **Provider** or **setState**
+- Local mock data (can be integrated with APIs)
+
+## 📦 Installation
+
+```bash
+git clone [https://github.com/YourUsername/pinterest_clone](https://github.com/HarshiSharma04/pinterest_clone).git
+cd pinterest_clone
+flutter pub get
+flutter run
