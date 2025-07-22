@@ -11,9 +11,6 @@ A beautiful and functional Pinterest UI clone built using **Flutter**. This proj
 - 💡 Clean and responsive UI
 - 🧱 Custom widgets for modular design
 
-## 🎨 Screenshots
-
-> 📸 Add your app screenshots here!
 
 ## 🛠 Tech Stack
 
@@ -25,7 +22,7 @@ A beautiful and functional Pinterest UI clone built using **Flutter**. This proj
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/YourUsername/pinterest_clone](https://github.com/HarshiSharma04/pinterest_clone).git
+git clone https://github.com/HarshiSharma04/pinterest_clone.git
 cd pinterest_clone
 flutter pub get
 flutter run
